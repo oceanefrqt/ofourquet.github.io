@@ -6,7 +6,7 @@ name                     : &name "Oceane Fourquet"
 description              : &description "PhD Student at Institut Pasteur and LIP6"
 url                      : https://ofourquet.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "<yourusername>/<yourusername>.github.io"
+repository               : "oceanefrqt/ofourquet.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false 
 words_per_minute         : 160
